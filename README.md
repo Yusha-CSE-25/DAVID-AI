@@ -17,3 +17,5 @@ choco install ffmpeg
 sudo apt install ffmpeg
 
 only versions >=3.10,<3.14 are supported
+
+Must Download https://ollama.com/download
