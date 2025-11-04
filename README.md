@@ -15,3 +15,5 @@ pip install -r requirements.txt
 choco install ffmpeg
 # Linux
 sudo apt install ffmpeg
+
+only versions >=3.10,<3.14 are supported
